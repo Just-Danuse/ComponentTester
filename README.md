@@ -8,8 +8,7 @@ I will try to stick to the [CERN Open Hardware License Version 2 - Strongly Reci
 
 ## Directory Overview
 
-* __Hardware:__ The schematic and PCB layout can be found here. I will also add exported files (PDFs...), as recommended in [CERN Open Hardware License Version 2 -
-Strongly Reciprocal User Guide](https://ohwr.org/project/cernohl/wikis/uploads/cf37727497ca2b5295a7ab83a40fcf5a/cern_ohl_s_v2_user_guide.pdf). For now, this project uses `Autodesk EAGLE`, but I may switch to `KiCad` when I get familiar enough with it.  
+* __Hardware:__ The schematic and PCB layout can be found here. I will also add exported files (PDFs...) there. For now, this project uses `Autodesk EAGLE`, but I may switch to `KiCad` when I get familiar enough with it.  
 TODO: * __Firmware:__ The source code of the tester is here.  
 TODO: * __Documents:__ HW and SW documentation is here.  
 TODO: * __Software:__ Hopefully one day it will be possible to connect this tester to a computer and use the software in this directory for more complex testing.  
