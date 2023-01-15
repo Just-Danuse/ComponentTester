@@ -1,5 +1,7 @@
 # ComponentTester
 
+My attempt to modify Karl-Heinz Kübbeler's AVR Transistortester for more accurate and faster component measurements. In the future hopefully with the possibility of measuring, controlling and identifying ICs. For now I will use the Karl-Heinz Kübbeler design, with four channel 16-bit ADCs and DACs.
+
 ## Directory Overview
 
 * TODO: __Hardware:__ The schematic and PCB layout is here. For now, this project uses `Autodesk EAGLE`, but I may switch to `KiCad` once I'm familiar enough with it.
