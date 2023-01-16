@@ -1,3 +1,7 @@
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+
 # ComponentTester
 
 My attempt to modify [Karl-Heinz Kübbeler's AVR Transistortester](https://www.mikrocontroller.net/articles/AVR_Transistortester) for more accurate and faster component measurements. In the future hopefully with the possibility of measuring, controlling and identifying ICs. For now I will use the Karl-Heinz Kübbeler design, with four channel 16-bit ADCs and DACs.
