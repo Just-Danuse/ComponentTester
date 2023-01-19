@@ -65,6 +65,8 @@ My main goal is to keep the simplicity of the original design but add speed and 
 
 ---
 
+## Licensing
+
 ### Software License
 
 [GNU General Public License v3.0](LICENSE)
