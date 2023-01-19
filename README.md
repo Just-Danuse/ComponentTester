@@ -6,7 +6,7 @@
 
 My attempt to modify [Karl-Heinz Kübbeler's AVR Transistortester](https://www.mikrocontroller.net/articles/AVR_Transistortester) for more accurate and faster component measurements. In the future hopefully with the possibility of measuring, controlling and identifying ICs. For now I will use the Karl-Heinz Kübbeler design, with four channel ~~16-bit~~ >=12-bit ADCs and DACs.
 
-You can also see the hardware related files (schematic, PCB layout...) at [https://cadlab.io](https://cadlab.io/projects/componenttester) although the repo there is few commits behind.
+You can also see the hardware related files (schematic, PCB layout...) at [https://cadlab.io](https://cadlab.io/projects/componenttester) ~~although the repo there is few commits behind~~ no longer true, as i connected cadlab to this repo.
 
 I will try to stick to the [CERN Open Hardware License Version 2 - Strongly Reciprocal User Guide](https://ohwr.org/project/cernohl/wikis/uploads/cf37727497ca2b5295a7ab83a40fcf5a/cern_ohl_s_v2_user_guide.pdf), but since I'm new to Open Hardware, that's not necessarily the rule. So please feel free to point out any deviations or errors to me.
 
