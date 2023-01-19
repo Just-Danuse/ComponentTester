@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-My attempt to modify [Karl-Heinz Kübbeler's AVR Transistortester](https://www.mikrocontroller.net/articles/AVR_Transistortester) for more accurate and faster component measurements. In the future hopefully with the possibility of measuring, controlling and identifying ICs. For now I will use the Karl-Heinz Kübbeler design, scaled to 24 test points, with at least 12 bits sampling resolution.
+My attempt to modify [Karl-Heinz Kübbeler's AVR Transistortester](https://www.mikrocontroller.net/articles/AVR_Transistortester) (some docs i found only in [mikrocontroller-net/transistortester](https://github.com/mikrocontroller-net/transistortester) repo) for more accurate and faster component measurements. In the future hopefully with the possibility of measuring, controlling and identifying ICs. For now I will use the Karl-Heinz Kübbeler design, scaled to 24 test points, with at least 12 bits sampling resolution.
 
 You can also see the hardware related files (schematic, PCB layout...) at [https://cadlab.io](https://cadlab.io/projects/componenttester).
 
