@@ -76,6 +76,12 @@ My main goal is to keep the simplicity of the original design but add speed and 
 
 ## Licensing
 
+### Software License
+
+[GNU General Public License v3.0](LICENSE)
+
+### Hardware License
+
 Copyright Daniel Židek 2023.  
 This source describes Open Hardware and is licensed under the CERNOHL-S v2.  
 You may redistribute and modify this source and make products using it
@@ -89,12 +95,6 @@ As per CERN-OHL-S v2 section 4, should You produce hardware based
 on this source, You must where practicable maintain the Source Location
 visible on the external case of the ComponentTester or other products you make using
 this source.
-
-### Software License
-
-[GNU General Public License v3.0](LICENSE)
-
-### Hardware License
 
 [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](LICENSE_HARDWARE)
 
